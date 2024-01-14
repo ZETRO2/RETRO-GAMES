@@ -18,7 +18,7 @@ CSS3: To style the site with a retro look and feel, ensuring a nostalgic visual 
 JavaScript: Implements the game logic and interactivity, providing a smooth and engaging user experience.
 
 # Playing the Games
-No downloads or installations required. Simply visit [Retro Game Hub URL] to start playing. Each game is readily accessible and easy to start for instant enjoyment.
+No downloads or installations required. Simply visit zetro2.github.io/RETRO-GAMES/ to start playing. Each game is readily accessible and easy to start for instant enjoyment.
 
 # Contributing
 Contributions are always welcome at Retro Game Hub! Whether it's adding new games, refining the current ones, or enhancing the user interface, we value your input. Email me at lchan3201@gmail.com
