@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "retro";
+  src: url('./ARCADECLASSIC.TTF');
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  word-spacing: 30px;
+  margin-bottom: 30px;
+  margin-top: 13%;
+  color: white;
+  font-size: 10rem;
+  font-family: "retro", monospace;
+  text-align: center;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5)
+}
+
+a {
+  color: white;
+  font-size: 20px;
+}
+
+h4 {
+  margin-top: 0;
+  color: white;
+  font-size: 15px;
+  font-family: "retro", monospace;
+  letter-spacing: 2px;
+  width: 800px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'retro';
+  font-weight: 300;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5)
+}
+
+span a:hover {
+  font-size: 48px;
+  text-shadow: none;
+}
+
+h2 a {
+  text-decoration: none;
+  font-size: 40px;
+}
+
+h2 img {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  left: 2px;
+  top: 1px;
+}

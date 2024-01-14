@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "retro";
+  src: url('./ARCADE.TTF');
+}
+
+@font-face {
+  font-family: "retro1";
+  src: url('./ARCADECLASSIC.TTF');
+}
+
+body {
+  color: white;
+}
+
+html,
+body {
+  overflow: hidden;
+}
+
+button {
+  margin-top: 30px;
+  position: relative;
+  left: 153px;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'retro';
+  padding: 5px;
+  width: 100px;
+  height: 40px;
+  border-radius: 0;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5)
+}
+
+button:hover {
+  background-color: #d9d9d9;
+}
+
+.snake {
+  position: absolute;
+  left: 800px;
+  top: 300px;
+}
+
+.dino {
+  position: absolute;
+  top: 300px;
+  margin-left: 130px;
+}
+
+.pong {
+  position: absolute;
+  left: 1400px;
+  top: 300px;
+}
+
+h1 {
+  font-weight: 900;
+  word-spacing: 20px;
+  text-align: center;
+  margin-top: 50px;
+  font-size: 100px;
+  font-family: 'retro1';
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5)
+}
